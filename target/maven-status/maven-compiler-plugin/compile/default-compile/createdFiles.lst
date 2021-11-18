@@ -1,0 +1,7 @@
+ru\redis\example\RedisConfig.class
+ru\redis\example\StudentRepository.class
+ru\redis\example\entity\Student.class
+ru\redis\example\StudentService.class
+ru\redis\example\StudentServiceImpl.class
+ru\redis\example\Application.class
+ru\redis\example\controller\StudentController.class
